@@ -1,0 +1,18 @@
+.box1{
+	height: 100px;
+}
+.box2{
+	height: 100px;
+}
+.box3{
+	height: 100px;
+}
+
+.padding-0{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+img{
+	width: 100%;
+}
