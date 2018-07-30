@@ -23,12 +23,12 @@ img{
 
 @media only screen and (min-width: 992px){
 	.font-div{
-		padding: 59px 0px !important;
+		padding: 67px 0px !important
 	}
 }
 
 @media only screen and (min-width: 1200px){
 	.font-div{
-		padding:104px 0px! important;
+		padding:112px 0px! important
 	}
-}*/
+}
